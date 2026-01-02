@@ -1,0 +1,12 @@
+# Foundry
+out/
+cache/
+
+# Env
+.env
+
+# OS
+.DS_Store
+
+# Logs
+*.log
