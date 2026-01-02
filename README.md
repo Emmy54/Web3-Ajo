@@ -13,7 +13,7 @@ This project is built as a **learn-as-you-code** exploration of:
 - Rotational payouts
 - Deadline & default detection
 - Withdrawable balances for defaulters
-- Full revert test coverage (Hppy and Fuzz tests coming)
+- Full revert test coverage (Happy and Fuzz tests coming)
 
 ## 🏗 Architecture
 - ERC20-based contributions
